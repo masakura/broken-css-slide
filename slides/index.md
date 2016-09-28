@@ -1,10 +1,5 @@
+# CSS が壊れる日
 
-# broken-css
+2016/09/13 (火)
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+まさくら とも
